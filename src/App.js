@@ -14,34 +14,28 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Teste"}
+        videoDescription={"From the Podium at Silverstone...now live to you! All the reaction and analysis from the 2020 British Grand Prix from Will Buxton, Billy Monger and the drivers themselves!"}
 
       />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[0]} />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[1]} />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[2]} />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[3]} />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[4]} />
-
-
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[5]} />
+
+        <Footer />
     </div>
   );
 }

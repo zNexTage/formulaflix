@@ -1,183 +1,179 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Destaques das corridas",
+      "link": "https://www.youtube.com/playlist?list=PLfoNZDHitwjXRANMnqmL0BzNGianZ2eX_",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "F1 2020",
+        "url": "https://www.youtube.com/playlist?list=PLfoNZDHitwjXRANMnqmL0BzNGianZ2eX_"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "F1 LIVE: 2020 British Grand Prix Reaction",
+          "url": "https://www.youtube.com/watch?v=WEReuulYAmE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Grande Prêmio da Inglaterra",
+          "url": "https://www.youtube.com/watch?v=HmEsqWosuS8&list=PLfoNZDHitwjXRANMnqmL0BzNGianZ2eX_&index=2&t=0s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Grande Prêmio da Hungria",
+          "url": "https://www.youtube.com/watch?v=8KhJUWlNnCk&list=PLfoNZDHitwjXRANMnqmL0BzNGianZ2eX_&index=3&t=0s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Grande Prêmio da Estíria",
+          "url": "https://www.youtube.com/watch?v=IEB3jc22izI&list=PLfoNZDHitwjXRANMnqmL0BzNGianZ2eX_&index=4&t=0s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Grande Prêmio da Austrália",
+          "url": "https://www.youtube.com/watch?v=1Q470aUwi3E&list=PLfoNZDHitwjXRANMnqmL0BzNGianZ2eX_&index=5&t=0s"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "As lendas",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "As maiores lendas da F1!",
+        "url": "https://www.youtube.com/playlist?list=PLfoNZDHitwjWnlZdS3mk5ttOZlqkLr9Nz"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Ayrton Senna",
+          "url": "https://www.youtube.com/watch?v=-pItzcHBHt0&list=PLfoNZDHitwjWnlZdS3mk5ttOZlqkLr9Nz&index=4&t=0s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Michael Schumacher",
+          "url": "https://www.youtube.com/watch?v=VYSTaVBpwPg&list=PLfoNZDHitwjWnlZdS3mk5ttOZlqkLr9Nz&index=2&t=0s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Mika Häkkinen",
+          "url": "https://www.youtube.com/watch?v=FZlHjmhwgZM&list=PLfoNZDHitwjWnlZdS3mk5ttOZlqkLr9Nz&index=7&t=0s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Alain Prost",
+          "url": "https://www.youtube.com/watch?v=xsNWdet4F4o&list=PLfoNZDHitwjWnlZdS3mk5ttOZlqkLr9Nz&index=8&t=0s"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Niki Lauda",
+          "url": "https://www.youtube.com/watch?v=8kiRMrMN1YU&list=PLfoNZDHitwjWnlZdS3mk5ttOZlqkLr9Nz&index=5&t=0s"
+        },
+        {
+          "titulo": "Stirling Moss",
+          "url": "https://www.youtube.com/watch?v=Voo2KaF_0GA&list=PLfoNZDHitwjWnlZdS3mk5ttOZlqkLr9Nz&index=6&t=0s"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Momentos clássicos",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Relembre grandes momentos da F1!",
+        "url": "https://www.youtube.com/playlist?list=PLfoNZDHitwjVf4gmq45n-6sxE8RNgAj9o"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Hakkinen vs Schumacher - Grande prêmio da Bélgica de 2000",
+          "url": "https://www.youtube.com/watch?v=Pd0LMH6yijA&list=PLfoNZDHitwjVf4gmq45n-6sxE8RNgAj9o&index=12&t=0s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Prost persegue Senna - Grande prêmio da Grã-Bretanha de 1993",
+          "url": "https://www.youtube.com/watch?v=X4qGYaFw0y4&list=PLfoNZDHitwjVf4gmq45n-6sxE8RNgAj9o&index=14&t=0s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Senna no grande prêmio de Monaco de 1990",
+          "url": "https://www.youtube.com/watch?v=auXfAHHNSFo&list=PLfoNZDHitwjVf4gmq45n-6sxE8RNgAj9o&index=29&t=0s"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Schumacher vs Montoya - Grande prêmio da Austria de 2001",
+          "url": "https://www.youtube.com/watch?v=QUeuSVvS5oM&list=PLfoNZDHitwjVf4gmq45n-6sxE8RNgAj9o&index=15&t=0s"
+        },
+        {
+          "titulo": "Vettel vs Hamilton - Grande prêmio da China de 2010",
+          "url": "https://www.youtube.com/watch?v=DEW_9A0z1TU&list=PLfoNZDHitwjVf4gmq45n-6sxE8RNgAj9o&index=22&t=0s"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "F1 em 360 graus",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Volta em Mônaco com Charles Leclerc",
+          "url": "https://www.youtube.com/watch?v=3193SP6bnRM&list=PLfoNZDHitwjXrrC5Y79b_yAWkBctaDTAV&index=7&t=0s"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Volta na Áustria com Valtteri Bottas",
+          "url": "https://www.youtube.com/watch?v=58f0LQrP8p4&list=PLfoNZDHitwjXrrC5Y79b_yAWkBctaDTAV&index=4&t=0s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Volta em Montreal com Sebastian Vettel",
+          "url": "https://www.youtube.com/watch?v=pcF98_a99X0&list=PLfoNZDHitwjXrrC5Y79b_yAWkBctaDTAV&index=5&t=0s"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Um pouco de história",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Conheça um pouco da história de algumas equipes da F1",
+        "url": "https://www.youtube.com/playlist?list=PLaGGvE8ocHk8WvRF5Fhk1cL66wb-7fGF1"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "A história da McClaren",
+          "url": "https://www.youtube.com/watch?v=q2T7JbSjE_4&list=PLaGGvE8ocHk8WvRF5Fhk1cL66wb-7fGF1&index=25&t=0s"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "A história da Scuderia Ferrari",
+          "url": "https://www.youtube.com/watch?v=O1iVZYO_fFs&list=PLaGGvE8ocHk8WvRF5Fhk1cL66wb-7fGF1&index=26&t=0s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "A história da Brawn GP",
+          "url": "https://www.youtube.com/watch?v=aOqDgJyLeTI&list=PLaGGvE8ocHk8WvRF5Fhk1cL66wb-7fGF1&index=16&t=0s"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "A história da Brabham",
+          "url": "https://www.youtube.com/watch?v=E2Qnis-qg-Q&list=PLaGGvE8ocHk8WvRF5Fhk1cL66wb-7fGF1&index=11&t=0s"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Grande Pilotos",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Conheça a história de grande nomes que passaram na F1",
+        "url": "https://www.youtube.com/playlist?list=PLaGGvE8ocHk94ppE-F8ZStLuvfrRIhYTJ"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Nelson Piquet",
+          "url": "https://www.youtube.com/watch?v=GzCNOBHZRa8&list=PLaGGvE8ocHk94ppE-F8ZStLuvfrRIhYTJ&index=2&t=0s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Ayrton Senna",
+          "url": "https://www.youtube.com/watch?v=wRaZ1L6DihI&list=PLaGGvE8ocHk8WvRF5Fhk1cL66wb-7fGF1&index=23&t=0s"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Mika Häkkinen",
+          "url": "https://www.youtube.com/watch?v=mBFwSJJvaIc&list=PLaGGvE8ocHk94ppE-F8ZStLuvfrRIhYTJ&index=4&t=0s"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "José Carlos Pace",
+          "url": "https://www.youtube.com/watch?v=5At4GAhNZsI&list=PLaGGvE8ocHk94ppE-F8ZStLuvfrRIhYTJ&index=6&t=0s"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Michael Schumacher",
+          "url": "https://www.youtube.com/watch?v=Vh4IYzrYQiM&list=PLaGGvE8ocHk8WvRF5Fhk1cL66wb-7fGF1&index=20&t=0s"
+        },
+        {
+          "titulo": "Niki Lauda",
+          "url": "https://www.youtube.com/watch?v=_pL6pzSkglo&list=PLaGGvE8ocHk94ppE-F8ZStLuvfrRIhYTJ&index=7&t=0s"
+        },
+        {
+          "titulo": "Nigel Mansell",
+          "url": "https://www.youtube.com/watch?v=aaBs4t46TM0&list=PLaGGvE8ocHk8WvRF5Fhk1cL66wb-7fGF1&index=14&t=0s"
         }
       ]
     }
