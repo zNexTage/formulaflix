@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FormulaFlix
+
+Aplicação React para demonstração de vídeos a respeito da Fórmula 1 desenvolvida durante a imersão React da Alura. 
 
 ## Available Scripts
 
